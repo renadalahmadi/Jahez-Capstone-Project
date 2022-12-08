@@ -1,7 +1,6 @@
 # Jahez-Capstone-Project
 
-Jahez Application- ML-Based Approach to Provide Better Customer Experience
-And Minimize the Delays in Accepted Orders.
+Jahez Application - ML-Based Approach To Minimize the Delays in Accepted Orders to Provide Better Customer Experience.
 
 
 Prepared by:
